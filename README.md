@@ -4386,29 +4386,16 @@ For more information, please refer to the [LICENSE.md](https://www.nr1.nu/linux/
 
 Greetings to all my esteemed colleagues who have placed their trust in me and granted me the opportunity to explore various devices. Your unwavering support is deeply appreciated, and I hold great affection for each one of you.
 
-## About the Author
+<br>
+<p align="center">Learn with ❤️ By <a href="https://www.youtube.com/channel/UC2O1Hfg-dDCbUcau5QWGcgg">Linuxndroid</a></p>
 
-**wuseman** (*Email: wuseman@nr1.nu*)
 
-## Contact Information
+# Follow Me on :
 
-If you encounter any challenges, have inquiries, innovative ideas, or valuable suggestions, please feel free to reach out to me through any of the following channels:
+[![Instagram](https://img.shields.io/badge/IG-linuxndroid-yellowgreen?style=for-the-badge&logo=instagram)](https://www.instagram.com/linuxndroid)
 
-- Email: [wuseman@nr1.nu](mailto:wuseman@nr1.nu)
-- Telegram: [t.me/wuseman](https://t.me/wuseman)
-- Liberachat: [wuseman](https://libera.chat/your_username)
+[![Youtube](https://img.shields.io/badge/Youtube-linuxndroid-redgreen?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC2O1Hfg-dDCbUcau5QWGcgg)
 
-I am open to communication and eager to engage with fellow enthusiasts, like-minded individuals, and collaborators. Let's build something amazing together!
-## Learn More about wuseman
+[![Browser](https://img.shields.io/badge/Website-linuxndroid-yellowred?style=for-the-badge&logo=browser)](https://www.linuxndroid.com)
 
-- [Personal Website](https://www.nr1.nu)
-- [GitHub Profile](https://github.com/wuseman/)
-- [Gist Profile](https://gist.github.com/wuseman)
-- [Stack Overflow Profile](https://stackoverflow.com/users/9887151/wuseman)
-- [Gentoo Wiki Profile](https://wiki.gentoo.org/wiki/User:Wuseman)
-- [Commandlinefu Profile](https://www.commandlinefu.com/commands/by/wuseman1)
-- [XDA Developers Profile](https://forum.xda-developers.com/m/wuseman.9065022/#adav_achievements)
 
-Feel free to explore my work and connect with me on these platforms. I am eager to engage with fellow enthusiasts, like-minded individuals, and collaborators. Let's build something amazing together!
-
-Happy Hacking!
