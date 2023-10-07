@@ -4371,7 +4371,6 @@ adb reboot fastboot
 - [Good review for clipboard control](https://www.smartspate.com/how-to-copy-text-from-the-clipboard-to-android-devices/)
 - [Utilizing adb for daily tasks](https://www.droidcon.com/2021/10/21/utilizing-adb-for-daily-tasks/)
 
-For more information, please refer to the [LICENSE.md](https://www.nr1.nu/linux/license/) file.
 
 ## Greetings
 
