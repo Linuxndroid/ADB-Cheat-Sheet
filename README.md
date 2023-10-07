@@ -4,15 +4,9 @@
   <h2>The Swiss Army Knife for Android</h2>
   <h3>Your Journey to Mastering <i>adb shell</i> Begins Here</h3>
 
-  <img width="820px" src="https://github.com/wuseman/adb-shell/assets/26827453/ddc950bc-1f15-4b78-87bb-1d9c8423ec0e" alt="Android Image">
-  <h3><a href="https://www.nr1.nu/android">Discover More at https://www.nr1.nu/android</a></h3>
 </div>
 
 <hr>
-
-
-
-https://github.com/wuseman/adb-shell/assets/26827453/c0f189a5-6138-4225-9506-08f608cea681
 
 
 
@@ -34,8 +28,6 @@ adb logcat | awk '
     print "adb shell am start -a '\''" act "'\'' -n '\''" cmp "'\''"
 }'
 ```
-
-https://user-images.githubusercontent.com/26827453/248605949-d9607d99-d0b1-46df-902b-5550b92bc826.mp4
 
 Here is another one for swiping, this command retrieves touch event coordinates using getevent, and then uses awk to construct a touchscreen swipe command for input. Here's a description for it:
 
@@ -116,7 +108,6 @@ adb logcat | awk '
 
 ### Colorize Words Individually
 
-https://github.com/wuseman/adb-shell/assets/26827453/fca9d2ff-1178-4a2c-b48c-db7a33695199
 
 
 ```bash
